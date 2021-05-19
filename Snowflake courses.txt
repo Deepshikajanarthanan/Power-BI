@@ -1,0 +1,31 @@
+Adding to Jagan's earlier shared document, below are the courses I took up on Udemy (some of which are mentioned in Yorbit):
+
+ 
+
+1. Snowflake Datawarehouse & Cloud Analytics - Introduction
+
+https://www.udemy.com/share/101CjIAEAfcV1QQX4H/
+
+ 
+
+2. Snowflake Masterclass [Realtime demos+Best practices+Labs]
+
+https://www.udemy.com/share/102lN0AEAfcV1QQX4H/ 
+
+ 
+
+3. Snowflake Decoded - Fundamentals and hands on Training
+
+https://www.udemy.com/share/1022wiAEAfcV1QQX4H/
+
+ 
+
+4. Snowflake for Developers
+
+https://www.udemy.com/share/102HbeAEAfcV1QQX4H/
+
+ 
+
+5. Mock Tests - Snowflake SnowPro Core Certification
+
+https://www.udemy.com/share/103AR6AEAfcV1QQX4H/
