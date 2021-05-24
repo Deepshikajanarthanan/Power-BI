@@ -1,0 +1,6 @@
+-	Experience in Spark matters a lot as there will be scenario based questions. 
+-	Going through ‘Spark- The definitive guide’ would really help. Practicing dataframe API is important along with I/O operations. 
+-	One should have good knowledge on different transformations, actions, various agg functions, udf and so on. 
+-	There will be questions around Spark core concepts, dataframe APIs, performance, coding (snippets, not to code though).
+-	There will be 20-30% questions around Spark core, 30-40% on dataframes, 10-15% on IO, 10-20% performance related questions.
+-	Exam is well structured with 60MCQ with duration of 2 hours. Since there is no retake policy please go for it once you have confidence.
